@@ -4,7 +4,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="900" height="400" >
+  <img src="https://i.pinimg.com/originals/ff/f5/0b/fff50b7611b3c5ad8f2edbc217bff32b.gif" width="900" height="400" >
 
 
 
